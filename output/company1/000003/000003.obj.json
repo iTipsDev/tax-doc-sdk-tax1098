@@ -1,0 +1,59 @@
+{
+  "taxYear" : 2025,
+  "accountId" : "75-338-4374",
+  "taxFormId" : "9327304",
+  "taxFormDate" : "2025-12-31",
+  "issuer" : {
+    "tin" : "00-0537969",
+    "partyType" : "BUSINESS",
+    "businessName" : {
+      "name1" : "Gleichner, Davis and Johnson"
+    },
+    "address" : {
+      "line1" : "7544 Jerry Groves",
+      "city" : "Nathanville",
+      "region" : "TX",
+      "postalCode" : "18110"
+    },
+    "phone" : {
+      "number" : "555-867-5309"
+    },
+    "email" : "demetrius.huels@gmail.com"
+  },
+  "recipient" : {
+    "tin" : "000-35-6239",
+    "partyType" : "INDIVIDUAL",
+    "individualName" : {
+      "first" : "Ying",
+      "last" : "Schowalter"
+    },
+    "address" : {
+      "line1" : "423 Fredericka Fall",
+      "city" : "Lake Arden",
+      "region" : "IN",
+      "postalCode" : "32153"
+    },
+    "email" : "donya.block@gmail.com"
+  },
+  "attributes" : [ ],
+  "links" : [ ],
+  "accountNumber" : "920-45354-5",
+  "mortgageInterest" : 200,
+  "outstandingPrincipal" : 300,
+  "originationDate" : "2025-05-11",
+  "overpaidRefund" : 400,
+  "mortgageInsurance" : 500,
+  "pointsPaid" : 600,
+  "isPropertyAddressSameAsBorrowerAddress" : true,
+  "propertyAddress" : {
+    "line1" : "562 Orn Mews",
+    "city" : "East Valentine",
+    "region" : "FL",
+    "postalCode" : "47671"
+  },
+  "propertyDescription" : "propertyDescription",
+  "mortgagedProperties" : 700,
+  "otherInformation" : "otherInformation",
+  "propertyTax" : 800,
+  "acquisitionDate" : "2025-10-14"
+}

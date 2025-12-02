@@ -1,0 +1,59 @@
+{
+  "taxYear" : 2025,
+  "accountId" : "76-057-2941",
+  "taxFormId" : "3747217",
+  "taxFormDate" : "2025-12-31",
+  "issuer" : {
+    "tin" : "00-0537969",
+    "partyType" : "BUSINESS",
+    "businessName" : {
+      "name1" : "Gleichner, Davis and Johnson"
+    },
+    "address" : {
+      "line1" : "7544 Jerry Groves",
+      "city" : "Nathanville",
+      "region" : "TX",
+      "postalCode" : "18110"
+    },
+    "phone" : {
+      "number" : "555-867-5309"
+    },
+    "email" : "demetrius.huels@gmail.com"
+  },
+  "recipient" : {
+    "tin" : "000-82-9759",
+    "partyType" : "INDIVIDUAL",
+    "individualName" : {
+      "first" : "Irving",
+      "last" : "Kutch"
+    },
+    "address" : {
+      "line1" : "0083 Fidel Key",
+      "city" : "Wardside",
+      "region" : "FL",
+      "postalCode" : "12053"
+    },
+    "email" : "kirby.douglas@gmail.com"
+  },
+  "attributes" : [ ],
+  "links" : [ ],
+  "accountNumber" : "533-71864-6",
+  "mortgageInterest" : 200,
+  "outstandingPrincipal" : 300,
+  "originationDate" : "2025-09-11",
+  "overpaidRefund" : 400,
+  "mortgageInsurance" : 500,
+  "pointsPaid" : 600,
+  "isPropertyAddressSameAsBorrowerAddress" : true,
+  "propertyAddress" : {
+    "line1" : "59788 Samatha Highway",
+    "city" : "Tabathafort",
+    "region" : "IA",
+    "postalCode" : "34287"
+  },
+  "propertyDescription" : "propertyDescription",
+  "mortgagedProperties" : 700,
+  "otherInformation" : "otherInformation",
+  "propertyTax" : 800,
+  "acquisitionDate" : "2025-06-07"
+}

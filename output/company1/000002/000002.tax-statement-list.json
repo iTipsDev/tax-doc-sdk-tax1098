@@ -1,0 +1,67 @@
+{
+  "statements" : [ {
+    "forms" : [ {
+      "tax1098" : {
+        "taxYear" : 2024,
+        "corrected" : false,
+        "accountId" : "63-515-8184",
+        "issuer" : {
+          "tin" : "00-0033950",
+          "partyType" : "BUSINESS",
+          "businessName" : {
+            "name1" : "Grady and Sons"
+          },
+          "address" : {
+            "line1" : "8219 Erik Crossroad",
+            "city" : "West Donna",
+            "region" : "DE",
+            "postalCode" : "88800"
+          },
+          "phone" : {
+            "number" : "555-867-5309",
+            "primary" : false
+          },
+          "email" : "zana.sawayn@yahoo.com"
+        },
+        "recipient" : {
+          "tin" : "000-47-8597",
+          "partyType" : "INDIVIDUAL",
+          "individualName" : {
+            "first" : "Avril",
+            "last" : "Durgan"
+          },
+          "address" : {
+            "line1" : "24138 Kennith Fields",
+            "city" : "West Nataliaberg",
+            "region" : "KY",
+            "postalCode" : "03616"
+          },
+          "phone" : {
+            "primary" : false
+          },
+          "email" : "kasey.christiansen@gmail.com"
+        },
+        "attributes" : [ ],
+        "links" : [ ],
+        "mortgagedProperties" : 200,
+        "otherInformation" : "otherInformation",
+        "accountNumber" : "089-84910-8",
+        "mortgageInterest" : 300,
+        "outstandingPrincipal" : 400,
+        "overpaidRefund" : 500,
+        "mortgageInsurance" : 600,
+        "pointsPaid" : 700,
+        "isPropertyAddressSameAsBorrowerAddress" : true,
+        "propertyAddress" : {
+          "line1" : "413 O'Hara Canyon",
+          "city" : "Kittieport",
+          "region" : "OH",
+          "postalCode" : "26242"
+        },
+        "propertyTax" : 800,
+        "propertyDescription" : "propertyDescription"
+      }
+    } ],
+    "attributes" : [ ]
+  } ]
+}

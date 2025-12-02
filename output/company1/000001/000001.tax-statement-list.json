@@ -1,0 +1,67 @@
+{
+  "statements" : [ {
+    "forms" : [ {
+      "tax1098" : {
+        "taxYear" : 2024,
+        "corrected" : false,
+        "accountId" : "67-968-4485",
+        "issuer" : {
+          "tin" : "00-0033950",
+          "partyType" : "BUSINESS",
+          "businessName" : {
+            "name1" : "Grady and Sons"
+          },
+          "address" : {
+            "line1" : "8219 Erik Crossroad",
+            "city" : "West Donna",
+            "region" : "DE",
+            "postalCode" : "88800"
+          },
+          "phone" : {
+            "number" : "555-867-5309",
+            "primary" : false
+          },
+          "email" : "zana.sawayn@yahoo.com"
+        },
+        "recipient" : {
+          "tin" : "000-70-9454",
+          "partyType" : "INDIVIDUAL",
+          "individualName" : {
+            "first" : "Sonya",
+            "last" : "Hill"
+          },
+          "address" : {
+            "line1" : "92899 Koss Pike",
+            "city" : "North Leatriceton",
+            "region" : "WV",
+            "postalCode" : "21781"
+          },
+          "phone" : {
+            "primary" : false
+          },
+          "email" : "leta.reinger@hotmail.com"
+        },
+        "attributes" : [ ],
+        "links" : [ ],
+        "mortgagedProperties" : 200,
+        "otherInformation" : "otherInformation",
+        "accountNumber" : "017-68644-3",
+        "mortgageInterest" : 300,
+        "outstandingPrincipal" : 400,
+        "overpaidRefund" : 500,
+        "mortgageInsurance" : 600,
+        "pointsPaid" : 700,
+        "isPropertyAddressSameAsBorrowerAddress" : true,
+        "propertyAddress" : {
+          "line1" : "809 Koch Forest",
+          "city" : "North Concepcion",
+          "region" : "NE",
+          "postalCode" : "00011"
+        },
+        "propertyTax" : 800,
+        "propertyDescription" : "propertyDescription"
+      }
+    } ],
+    "attributes" : [ ]
+  } ]
+}

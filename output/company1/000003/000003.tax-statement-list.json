@@ -1,0 +1,67 @@
+{
+  "statements" : [ {
+    "forms" : [ {
+      "tax1098" : {
+        "taxYear" : 2024,
+        "corrected" : false,
+        "accountId" : "95-467-8428",
+        "issuer" : {
+          "tin" : "00-0033950",
+          "partyType" : "BUSINESS",
+          "businessName" : {
+            "name1" : "Grady and Sons"
+          },
+          "address" : {
+            "line1" : "8219 Erik Crossroad",
+            "city" : "West Donna",
+            "region" : "DE",
+            "postalCode" : "88800"
+          },
+          "phone" : {
+            "number" : "555-867-5309",
+            "primary" : false
+          },
+          "email" : "zana.sawayn@yahoo.com"
+        },
+        "recipient" : {
+          "tin" : "000-25-8561",
+          "partyType" : "INDIVIDUAL",
+          "individualName" : {
+            "first" : "Marianna",
+            "last" : "Ullrich"
+          },
+          "address" : {
+            "line1" : "970 Goyette Rapid",
+            "city" : "Schustermouth",
+            "region" : "NC",
+            "postalCode" : "00954"
+          },
+          "phone" : {
+            "primary" : false
+          },
+          "email" : "robin.schmeler@gmail.com"
+        },
+        "attributes" : [ ],
+        "links" : [ ],
+        "mortgagedProperties" : 200,
+        "otherInformation" : "otherInformation",
+        "accountNumber" : "927-32212-3",
+        "mortgageInterest" : 300,
+        "outstandingPrincipal" : 400,
+        "overpaidRefund" : 500,
+        "mortgageInsurance" : 600,
+        "pointsPaid" : 700,
+        "isPropertyAddressSameAsBorrowerAddress" : true,
+        "propertyAddress" : {
+          "line1" : "6301 Williamson Flats",
+          "city" : "Minside",
+          "region" : "DE",
+          "postalCode" : "02779"
+        },
+        "propertyTax" : 800,
+        "propertyDescription" : "propertyDescription"
+      }
+    } ],
+    "attributes" : [ ]
+  } ]
+}
