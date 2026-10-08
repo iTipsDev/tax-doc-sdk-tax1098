@@ -1,0 +1,69 @@
+{
+  "taxYear" : 2026,
+  "accountId" : "46-926-9029",
+  "taxFormId" : "0281628",
+  "taxFormDate" : "2026-12-31",
+  "issuer" : {
+    "tin" : "00-0588197",
+    "partyType" : "BUSINESS",
+    "businessName" : {
+      "name1" : "Rohan, Marquardt and Koch"
+    },
+    "address" : {
+      "line1" : "156 Lavern Key",
+      "city" : "Geralynstad",
+      "region" : "SC",
+      "postalCode" : "89198",
+      "unitType" : "Apt",
+      "unitNumber" : "530"
+    },
+    "phone" : {
+      "number" : "555-867-5309"
+    },
+    "email" : "rhonda.weimann@gmail.com"
+  },
+  "recipient" : {
+    "tin" : "000-73-0112",
+    "partyType" : "INDIVIDUAL",
+    "individualName" : {
+      "first" : "Daron",
+      "middle" : "Maryjane",
+      "last" : "Schuppe"
+    },
+    "businessName" : {
+      "name1" : "Feeney-Olson"
+    },
+    "address" : {
+      "line1" : "5316 Conroy Union",
+      "city" : "Ullrichburgh",
+      "region" : "PA",
+      "postalCode" : "59246",
+      "unitType" : "Apt",
+      "unitNumber" : "836"
+    },
+    "email" : "heriberto.kuhn@gmail.com"
+  },
+  "attributes" : [ ],
+  "links" : [ ],
+  "accountNumber" : "763-38427-3",
+  "mortgageInterest" : 200,
+  "outstandingPrincipal" : 300,
+  "originationDate" : "2026-04-04",
+  "overpaidRefund" : 400,
+  "mortgageInsurance" : 500,
+  "pointsPaid" : 600,
+  "isPropertyAddressSameAsBorrowerAddress" : true,
+  "propertyAddress" : {
+    "line1" : "52378 Lucio Plains",
+    "city" : "South Orlandomouth",
+    "region" : "CA",
+    "postalCode" : "03036",
+    "unitType" : "Apt",
+    "unitNumber" : "195"
+  },
+  "propertyDescription" : "Vacant land",
+  "mortgagedProperties" : 700,
+  "otherInformation" : "Real estate taxes $2,345.67",
+  "propertyTax" : 800,
+  "acquisitionDate" : "2026-07-21"
+}

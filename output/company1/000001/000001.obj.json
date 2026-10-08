@@ -1,0 +1,69 @@
+{
+  "taxYear" : 2026,
+  "accountId" : "08-525-4962",
+  "taxFormId" : "5794414",
+  "taxFormDate" : "2026-12-31",
+  "issuer" : {
+    "tin" : "00-0588197",
+    "partyType" : "BUSINESS",
+    "businessName" : {
+      "name1" : "Rohan, Marquardt and Koch"
+    },
+    "address" : {
+      "line1" : "156 Lavern Key",
+      "city" : "Geralynstad",
+      "region" : "SC",
+      "postalCode" : "89198",
+      "unitType" : "Apt",
+      "unitNumber" : "530"
+    },
+    "phone" : {
+      "number" : "555-867-5309"
+    },
+    "email" : "rhonda.weimann@gmail.com"
+  },
+  "recipient" : {
+    "tin" : "000-77-4617",
+    "partyType" : "INDIVIDUAL",
+    "individualName" : {
+      "first" : "Lindy",
+      "middle" : "Rosanne",
+      "last" : "Padberg"
+    },
+    "businessName" : {
+      "name1" : "Howell-Mann"
+    },
+    "address" : {
+      "line1" : "54682 Alexander Port",
+      "city" : "Jonesfurt",
+      "region" : "NV",
+      "postalCode" : "92631",
+      "unitType" : "Apt",
+      "unitNumber" : "861"
+    },
+    "email" : "kimberley.ratke@hotmail.com"
+  },
+  "attributes" : [ ],
+  "links" : [ ],
+  "accountNumber" : "411-09518-0",
+  "mortgageInterest" : 200,
+  "outstandingPrincipal" : 300,
+  "originationDate" : "2026-11-19",
+  "overpaidRefund" : 400,
+  "mortgageInsurance" : 500,
+  "pointsPaid" : 600,
+  "isPropertyAddressSameAsBorrowerAddress" : true,
+  "propertyAddress" : {
+    "line1" : "16616 Roselee Key",
+    "city" : "North Dennischester",
+    "region" : "DE",
+    "postalCode" : "99145",
+    "unitType" : "Apt",
+    "unitNumber" : "033"
+  },
+  "propertyDescription" : "Vacant land",
+  "mortgagedProperties" : 700,
+  "otherInformation" : "Real estate taxes $2,345.67",
+  "propertyTax" : 800,
+  "acquisitionDate" : "2026-11-17"
+}

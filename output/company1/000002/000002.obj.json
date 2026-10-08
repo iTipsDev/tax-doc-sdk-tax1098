@@ -1,0 +1,69 @@
+{
+  "taxYear" : 2026,
+  "accountId" : "47-660-2627",
+  "taxFormId" : "7480193",
+  "taxFormDate" : "2026-12-31",
+  "issuer" : {
+    "tin" : "00-0588197",
+    "partyType" : "BUSINESS",
+    "businessName" : {
+      "name1" : "Rohan, Marquardt and Koch"
+    },
+    "address" : {
+      "line1" : "156 Lavern Key",
+      "city" : "Geralynstad",
+      "region" : "SC",
+      "postalCode" : "89198",
+      "unitType" : "Apt",
+      "unitNumber" : "530"
+    },
+    "phone" : {
+      "number" : "555-867-5309"
+    },
+    "email" : "rhonda.weimann@gmail.com"
+  },
+  "recipient" : {
+    "tin" : "000-61-8557",
+    "partyType" : "INDIVIDUAL",
+    "individualName" : {
+      "first" : "Dave",
+      "middle" : "Gabriel",
+      "last" : "Roob"
+    },
+    "businessName" : {
+      "name1" : "Keeling, Stehr and Marks"
+    },
+    "address" : {
+      "line1" : "0033 Roger Knoll",
+      "city" : "North Lissettechester",
+      "region" : "LA",
+      "postalCode" : "71233",
+      "unitType" : "Apt",
+      "unitNumber" : "538"
+    },
+    "email" : "reggie.nitzsche@hotmail.com"
+  },
+  "attributes" : [ ],
+  "links" : [ ],
+  "accountNumber" : "051-96968-8",
+  "mortgageInterest" : 200,
+  "outstandingPrincipal" : 300,
+  "originationDate" : "2026-03-22",
+  "overpaidRefund" : 400,
+  "mortgageInsurance" : 500,
+  "pointsPaid" : 600,
+  "isPropertyAddressSameAsBorrowerAddress" : true,
+  "propertyAddress" : {
+    "line1" : "3309 Macejkovic Port",
+    "city" : "Lake Ernaburgh",
+    "region" : "NC",
+    "postalCode" : "62360",
+    "unitType" : "Apt",
+    "unitNumber" : "306"
+  },
+  "propertyDescription" : "Vacant land",
+  "mortgagedProperties" : 700,
+  "otherInformation" : "Real estate taxes $2,345.67",
+  "propertyTax" : 800,
+  "acquisitionDate" : "2026-04-20"
+}
